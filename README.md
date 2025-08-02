@@ -87,6 +87,7 @@ SpeXCore-CheatBase/
 │   │   ├── custom_colors.h   -> UI color definitions
 │   │   └── custom_settings.h -> UI configuration
 │   ├── imgui/
+│   ├── math/
 │   ├── utils/
 │   │   ├── Logger.h          -> Logging system header
 │   │   ├── Logger.cpp        -> Logger implementation
